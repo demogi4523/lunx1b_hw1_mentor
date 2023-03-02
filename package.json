@@ -1,0 +1,24 @@
+{
+  "name": "lunx1b_hw1_mentor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "first": "node --experimental-modules first/demo.js",
+    "second": "node --experimental-modules second/demo.js",
+    "third": "node --experimental-modules third/demo.js",
+    "help": "node --experimental-modules index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demogi4523/lunx1b_hw1_mentor.git"
+  },
+  "author": "demogi4523 <demogi4523@yandex.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/demogi4523/lunx1b_hw1_mentor/issues"
+  },
+  "homepage": "https://github.com/demogi4523/lunx1b_hw1_mentor#readme"
+}
